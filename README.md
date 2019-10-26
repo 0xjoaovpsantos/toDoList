@@ -1,16 +1,50 @@
-# task_list
 
-Task list
+<h1 align="center">
+  <br>
+  toDo List
+  <br>
+</h1>
 
-## Getting Started
+<h4 align="center">Study project made using <a href="https://flutter.dev" target="_blank">Flutter</a>.</h4>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+  <a href="#key-features">• Key Features</a>
+  <a href="#how-to-use">• How To Use</a>
+  <a href="#credits">• Credits</a>
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+<p align="center">
+  <img src="https://github.com/joaovictorpsantos/toDoList/blob/master/images_readme/toDoList.png" width="200" />
+</p>
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Key Features
+
+* Register your tasks to remember to do later!
+
+## How To Use
+
+To clone and run this application, you'll need [Git](https://git-scm.com) and [Flutter](https://flutter.dev/docs/get-started/install) installed on your computer. From your command line:
+
+```bash
+# Clone this repository
+$ git clone https://github.com/joaovictorpsantos/toDoList.git
+
+# Go into the repository
+$ cd toDoList
+
+# Install dependencies
+$ flutter packages get
+
+# Run the app
+$ flutter run
+```
+
+## Credits
+- [Flutter Course](https://www.udemy.com/course/curso-completo-flutter-app-android-ios/)
+
+## License
+
+MIT
+
+---
